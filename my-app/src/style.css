@@ -1,0 +1,12 @@
+.text {
+    display: flex;
+    width: 50%;
+    background-color: #282c34;
+    padding: 40px;
+    flex-direction: column;
+}
+
+h1,h2,p {
+    color: white;
+    
+}
